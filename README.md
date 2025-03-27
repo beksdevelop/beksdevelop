@@ -40,6 +40,6 @@ Certified Salesforce Developer with 5 years of experience in developing, designi
 - Implemented Role-Based Access Control (RBAC)
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bek-islan-8a5139212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bek-islan-8a5139212)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beksdevelop@gmail.com)
 [![Trailhead](https://img.shields.io/badge/Trailhead-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/bekislan)
